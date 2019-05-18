@@ -1,0 +1,8 @@
+<HTML>
+<HEAD>
+<TITLE> PAGINA DE PRUEBA </TITLE>
+</HEAD>
+<BODY>
+<a href="pagina.html 3 a 1" target="new3">link</a> 
+</BODY>
+</HTML>
